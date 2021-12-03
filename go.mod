@@ -1,4 +1,4 @@
-module github.com/envoyproxy/go-control-plane
+module github.com/antJack/go-control-plane-v3
 
 go 1.11
 
